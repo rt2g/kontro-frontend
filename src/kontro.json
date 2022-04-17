@@ -1,0 +1,58 @@
+{
+  "cities": [
+    {
+      "name": "Berlin",
+      "vehicles": [
+        {
+          "name": "U-Bahn",
+          "lines": [
+            {
+              "name": "U1"
+            },
+            {
+              "name": "U2"
+            }
+          ]
+        },
+        {
+          "name": "S-Bahn",
+          "lines": [
+            {
+              "name": "S1"
+            },
+            {
+              "name": "S2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Stuttgart",
+      "vehicles": [
+        {
+          "name": "U-Bahn",
+          "lines": [
+            {
+              "name": "U1"
+            },
+            {
+              "name": "U2"
+            }
+          ]
+        },
+        {
+          "name": "S-Bahn",
+          "lines": [
+            {
+              "name": "S1"
+            },
+            {
+              "name": "S2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
